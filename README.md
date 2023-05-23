@@ -1,6 +1,9 @@
 
 ¡Hola! 👋
-¡Bienvenido/a a mi perfil de GitHub! Aquí encontrarás información sobre mí y mis intereses en el mundo de la programación y la tecnología. Permíteme presentarme:
+
+<div> 
+  ¡Bienvenido/a a mi perfil de GitHub! Aquí encontrarás información sobre mí y mis intereses en el mundo de la programación y la tecnología. Permíteme presentarme:
+</div>
 
 Sobre mí 👦🎸💻
 ¡Hola! Mi nombre es Lucas, tengo 20 años y soy de Argentina 🇦🇷. Me apasiona la música y soy un entusiasta guitarrista 🎶. Además, la tecnología es una de mis grandes pasiones, y la programación me ha brindado la oportunidad de explorar nuevas ideas y expandir mi mente a través del estudio constante 🚀.
