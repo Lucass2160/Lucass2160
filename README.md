@@ -18,6 +18,7 @@
   <li>JavaScript 🌐</li>
   <li>Redux ⚛️</li>
   <li>React ⚛️</li>
+  <li>Node </li>
   <li>CSS 🎨</li>
   <li>HTML 📝</li>
 </ul>
